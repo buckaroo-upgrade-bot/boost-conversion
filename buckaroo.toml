@@ -1,6 +1,5 @@
 targets = [ "//:conversion" ]
 
-
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-assert"
 version = "branch=master"
